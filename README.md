@@ -1,10 +1,10 @@
-# **Project Name:** X-Clone  
-## **Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js)  
+# **Project Name :** X-Clone  
+## **Tech Stack :** MERN (MongoDB, Express.js, React.js, Node.js)  
 
-## **Description:**  
+## **Description :**  
 X-Clone is a fully functional social media application inspired by X (formerly Twitter), designed to replicate and enhance the core features of modern social networking platforms.  
 
-## **Key Features:**  
+## **Key Features :**  
 - **🔐 User Authentication:** Secure login and registration system.  
 - **🖊️ Profile Management:** Users can create and customize their profiles.  
 - **⚡ Real-Time Interactions:** Post, like, and delete updates in real time.  
